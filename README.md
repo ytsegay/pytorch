@@ -1,4 +1,4 @@
-Basic CNN on PyTorch: 
+# Basic CNN on PyTorch: 
 This is the first to learn pytorch hands on. This notebook does a few things:
 
 1. load images from disk. apply transformation, resize, crop and scale
@@ -9,3 +9,5 @@ This is the first to learn pytorch hands on. This notebook does a few things:
 6. Experiemnt with freezing some of the two layers
 7. Make predictions using the two layers
 
+To use the notebook you will need to download data and put the data in the right stucture (folders for each class).
+I got the first set of data (ants and bees) from https://download.pytorch.org/tutorial/hymenoptera_data.zip
